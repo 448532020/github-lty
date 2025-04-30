@@ -1,4 +1,3 @@
-
 # Test Card 1: Resale/Rental Platform Hypothesis
 
 **HYPOTHESIS**  
@@ -81,8 +80,12 @@ We are right if there is a significant increase in sales and positive user feedb
 
 # Interview Questions
 
-1. When you see that producing this T-shirt requires 3,000 liters of water, how does that impact your willingness to buy it?  
-2. How should we handle damage to rented items? (Options: Security deposit / Platform insurance / Peer reviews)  
-3. Which feature excited you most? Which felt unnecessary?  
-4. If you could use just one feature today, which would it be? Why not the others?  
-5. Which do you prefer, renting or buying new products? Can you tell me the reason?
+1. Which do you prefer, renting or buying new products? Can you tell me the reason?  
+2. If there were a platform where you could rent clothes that others have worn but have been cleaned, would you be willing to try it? Why?  
+3. Would you be willing to participate if you could recycle your old clothes through a website and get rewards (such as points, discounts)?  
+4. If you are willing to participate, what kind of rewards would be most attractive to you?  
+5. What expectations do you have regarding the process of old clothes recycling? (For instance, door-to-door collection, drop-off points, immediate feedback or something else)  
+6. How should we handle damage to rented items?  
+   - Options: Security deposit / Platform insurance / Peer reviews.  
+7. What concerns would you have about wearing clothes that someone else has worn before? If you have such concerns, what measures do you expect the website to take to enhance your trust?  
+8. What kind of experience do you expect for using this website? What functions are essential for it?
