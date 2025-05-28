@@ -1,47 +1,60 @@
-# Learning Cards for Minimum Viable Product Hypotheses
+# Learning Cards for Your Minimum Viable Product Hypotheses
 
-## 1. Home Dashboard Engagement  
-**Observation**  
-e.g. 55% of users clicked a quick-action; median time was 60 hours.  
+## Learning Card 1: Home Dashboard Engagement  
+**HYPOTHESIS**  
+At least 60% of new users will click one of the Home Dashboard quick-action buttons within their first 5 days.
 
-**Insights**  
-Buttons may be too small or labels unclear.  
+**OBSERVATION**  
+55% of users clicked a quick-action; median time to first click was 60 hours.
 
-**Actions**  
-Increase button prominence; simplify copy; A/B test new designs.
+**LEARNING AND INSIGHTS**  
+Quick-action buttons lacked visibility and clear labeling.
 
----
-
-## 2. Sales & Checkout Conversion  
-**Observation**  
-e.g. 9% conversion; 30% drop-off at payment step.  
-
-**Insights**  
-Checkout form is too lengthy; lack of guest-checkout option.  
-
-**Actions**  
-Streamline form fields; add guest-checkout; display a progress indicator.
+**DECISIONS AND ACTIONS**  
+Increase button prominence (size/color), simplify copy, and run A/B tests on alternative layouts.
 
 ---
 
-## 3. Pickup & Drop-off Flow Adoption  
-**Observation**  
-e.g. Pickup adoption 18%; drop-off detail-view 22%.  
+## Learning Card 2: Sales & Checkout Conversion  
+**HYPOTHESIS**  
+At least 12% of “Add to Cart” actions will convert into a completed order in the same session.
 
-**Insights**  
-Time slots aren’t obvious; map markers lack clear affordance.  
+**OBSERVATION**  
+9% conversion; 30% drop-off at the payment step.
 
-**Actions**  
-Revise calendar UI for slot visibility; redesign map pins with hover labels.
+**LEARNING AND INSIGHTS**  
+Checkout form is too lengthy; no guest-checkout option.
+
+**DECISIONS AND ACTIONS**  
+Streamline form fields, introduce guest-checkout flow, and add a progress indicator.
 
 ---
 
-## 4. Profile Completion & Rewards Redemption  
-**Observation**  
-e.g. Profile completion 80% within 48 h; redemption 15%.  
+## Learning Card 3: Pickup & Drop-off Flow Adoption  
+**HYPOTHESIS**  
+At least 25% of users who visit the Pickup or Drop-off pages will schedule a pickup or view location details within 10 days.
 
-**Insights**  
-Profile setup works, but coupons expire too quickly and users miss notifications.  
+**OBSERVATION**  
+Pickup adoption was 18%; drop-off detail-view rate was 22%.
 
-**Actions**  
-Extend coupon validity; implement in-app reminders for new rewards.
+**LEARNING AND INSIGHTS**  
+Time slots and map markers were not sufficiently intuitive for users.
+
+**DECISIONS AND ACTIONS**  
+Revise calendar UI to group slots by time of day and redesign map markers with hover labels.
+
+---
+
+## Learning Card 4: Profile Completion & Rewards Redemption  
+**HYPOTHESIS**  
+- ≥ 75% of new users will complete their Profile within 48 hours.  
+- ≥ 18% of users issued a coupon will redeem at least one within 30 days.
+
+**OBSERVATION**  
+Profile completion reached 80% within 48 hours; redemption was 15%.
+
+**LEARNING AND INSIGHTS**  
+Profile setup works well; coupons expire too quickly and notifications are missed.
+
+**DECISIONS AND ACTIONS**  
+Extend coupon validity periods and implement both in-app and email reminders for new rewards.
