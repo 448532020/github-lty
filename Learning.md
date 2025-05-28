@@ -1,33 +1,59 @@
-## Learning Cards
+# Learning Cards for Your Hypotheses
 
-1. **Impact Awareness**  
-   **Observation**  
-   (e.g.) 15% drop in stated purchase intent when metrics shown.  
-   **Insights**  
-   Users noticed water savings more than carbon values.  
-   **Actions**  
-   Elevate water badge prominently + simplify carbon tooltip.
+## Learning Card 1: Fast-Fashion Impact Awareness  
+**HYPOTHESIS**  
+Displaying per-item environmental metrics will reduce purchase intent.
 
-2. **Sales Conversion**  
-   **Observation**  
-   (e.g.) 10% overall conversion; 25% drop-off at payment.  
-   **Insights**  
-   The payment form fields felt excessive.  
-   **Actions**  
-   Streamline form; add guest‐checkout; show a progress bar.
+**OBSERVATION**  
+15% drop in purchase-intent rate for users exposed to metrics.
 
-3. **Drop‐off Map**  
-   **Observation**  
-   (e.g.) 28% detail‐view rate; users missed smaller pins.  
-   **Insights**  
-   Map markers are too similar in size and color.  
-   **Actions**  
-   Increase pin size; add hover labels; highlight nearest five points.
+**LEARNING AND INSIGHTS**  
+Users responded more strongly to water-saving data than carbon figures.
 
-4. **Pickup Adoption**  
-   **Observation**  
-   (e.g.) 18% scheduled a pickup; many balked at time‐slot selection.  
-   **Insights**  
-   Time slots aren’t clearly labeled.  
-   **Actions**  
-   Group slots by morning/afternoon; add “Next available” indicator.
+**DECISIONS AND ACTIONS**  
+Highlight water badge more prominently and simplify carbon tooltip.
+
+---
+
+## Learning Card 2: Sales Catalog Conversion  
+**HYPOTHESIS**  
+12% of “Add to Cart” actions convert to purchase in the same session.
+
+**OBSERVATION**  
+10% conversion; 25% drop-off during payment.
+
+**LEARNING AND INSIGHTS**  
+Payment form is too long and lacks guest-checkout.
+
+**DECISIONS AND ACTIONS**  
+Streamline form fields, add guest-checkout, and introduce progress indicator.
+
+---
+
+## Learning Card 3: Recycling Drop-off Map Usage  
+**HYPOTHESIS**  
+30% of map searches will become detail-view clicks.
+
+**OBSERVATION**  
+28% detail-view rate; users missed smaller pins.
+
+**LEARNING AND INSIGHTS**  
+Map markers need to stand out and be clearly interactive.
+
+**DECISIONS AND ACTIONS**  
+Increase pin size, add hover labels, and highlight nearest five points.
+
+---
+
+## Learning Card 4: Clothing Pickup Service Adoption  
+**HYPOTHESIS**  
+20% of page visitors will schedule a pickup within 10 days.
+
+**OBSERVATION**  
+18% scheduling rate; users confused by slot labels.
+
+**LEARNING AND INSIGHTS**  
+Time-slot selection UI is unclear.
+
+**DECISIONS AND ACTIONS**  
+Group slots by morning/afternoon and add a “Next available” indicator.
