@@ -5,32 +5,36 @@ Based on the new set of HTML pages, our MVP will include the following **core fe
 ## In Scope
 
 - **Home Dashboard**  
-  Personalized sustainability overview: water saved, carbon reduced, items recycled, plus a composite “sustainability score” and interactive charts :contentReference[oaicite:0]{index=0}
+  Personalized sustainability overview showing:
+  - Water saved  
+  - Carbon reduced  
+  - Items recycled  
+  - Composite “sustainability score” and simple interactive charts  
 
 - **Sales Catalog & Cart**  
-  - Filterable product grid (gender, size, color, style, price) → **Sales** page :contentReference[oaicite:1]{index=1}  
-  - Add to cart and checkout flow with contact, address, order summary, and payment → **Cart** page :contentReference[oaicite:2]{index=2}
+  - **Sales** page: filterable product grid (gender, size, color, style, price)  
+  - **Cart** page: add to cart, checkout flow with contact details, address, order summary, payment  
 
 - **Recycling Drop-off Map**  
-  Interactive map with autocomplete search, radius filtering, and location markers for charity shops, clothes banks, repair centers → **Drop-off** page :contentReference[oaicite:3]{index=3}
+  - **Drop-off** page: interactive map with autocomplete search, radius filter, and markers for donation/recycling points  
 
 - **Pickup Scheduler**  
-  Flatpickr-powered calendar for booking at-home clothing pickups, with preparation reminders and summary confirmation → **Pickup** page :contentReference[oaicite:4]{index=4}
+  - **Pickup** page: calendar widget for booking at-home clothing pickups, with confirmation and reminder step  
 
 - **User Profile & Account Area**  
-  A single hub encompassing all personal-account and support pages:  
-  - **Profile Management**: view/edit name, address, email, phone, and avatar → **Profile** page :contentReference[oaicite:5]{index=5}  
-  - **My Rentals**: card-based list of current and past rented items (title, image, date, price) → **Rental** page :contentReference[oaicite:6]{index=6}  
-  - **My Recycling**: log of recycled items showing image, date, method, and earned reward → **Recycling** page :contentReference[oaicite:7]{index=7}  
-  - **Rewards Dashboard**: list of earned coupons and discounts styled as reward cards → **Rewards** page :contentReference[oaicite:8]{index=8}  
-  - **Help & Support**: FAQ sections and contact info → **Help** page :contentReference[oaicite:9]{index=9}
+  A single hub containing:  
+  - **Profile**: view and edit name, address, email, phone, upload avatar  
+  - **My Rentals**: list of current and past rented items (title, image, date, price)  
+  - **My Recycling**: log of recycled items (image, date, method, reward earned)  
+  - **Rewards Dashboard**: earned coupons and discounts displayed as cards  
+  - **Help & Support**: FAQ and contact information  
 
 ---
 
 ## Out of Scope (Initial Launch)
 
-- Recommendation engine or AI-driven product suggestions  
-- Social/community sharing or in-app messaging  
-- Third-party logistics integrations beyond map lookup and basic scheduling  
-- Advanced analytics beyond the core impact metrics and charts  
-- Loyalty tiers, subscription models, or marketplace reviews  
+- AI-driven recommendations or personalization beyond basic filters  
+- Social features (community sharing, in-app messaging)  
+- Deep logistics integrations (beyond map lookup and booking)  
+- Advanced analytics beyond core impact metrics  
+- Subscription/loyalty tiers or user reviews
