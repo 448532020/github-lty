@@ -1,200 +1,202 @@
-
-# Interview Responses (Street Interview)
+# Interview Responses (Unified Questions)
 
 ## Participant 1
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "Yes, I appreciate transparency, it makes me reconsider before buying."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> Yes, it highlights the impact and makes me reconsider my choices.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "Absolutely, convenience would encourage me greatly."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Definitely, ease of use would encourage regular participation.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Yes, discounts or coupons would definitely motivate me."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Yes, immediate discounts or coupons would be most attractive.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Door-to-door pickups are best, less hassle."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Convenient home pickups, less effort for me.
 
-**Q5:** Issues booking a clothes pickup?
-> "Just scheduling conflicts, flexible timing is essential."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Scheduling conflicts or lack of flexibility would discourage me.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Yes, if they clearly show cleaning certifications and customer reviews."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> Yes, clear certifications and positive customer reviews would build trust.
 
-**Q7:** Essential features for this kind of website/app?
-> "Simple navigation, fast checkout, and clear impact metrics."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Easy navigation, clear impact visuals, and quick checkout.
 
 ---
 
 ## Participant 2
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "Somewhat, but price usually matters more to me."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> Occasionally, but cost and style typically matter more.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "Yes, especially if there's an easy drop-off point nearby."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Yes, especially if drop-off points are conveniently located.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Definitely. Store credits or direct discounts would work best."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Definitely, direct store credit or discounts would be ideal.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Convenient drop-off points near my daily routes."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Accessible drop-off locations near everyday spots.
 
-**Q5:** Issues booking a clothes pickup?
-> "Reliability—making sure they come exactly when scheduled."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Reliability and punctuality issues would be concerning.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Maybe—detailed photos and cleanliness guarantees would help."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> Maybe—clear photos and sanitation guarantees are necessary.
 
-**Q7:** Essential features for this kind of website/app?
-> "Clear instructions, easy scheduling, and reliable reminders."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Intuitive use, reliable scheduling, and clear communication.
 
 ---
 
 ## Participant 3
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "Yes, significantly. I like knowing I'm making eco-friendly choices."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> Yes, significantly; it aligns with my personal values.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "Absolutely, as long as it's straightforward and convenient."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Absolutely, as long as the process is seamless.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Yes. Points that accumulate to substantial discounts would be great."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Yes, loyalty points redeemable for discounts would work best.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Real-time feedback on my environmental contribution would motivate me more."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Immediate feedback on environmental impact would motivate me greatly.
 
-**Q5:** Issues booking a clothes pickup?
-> "Time slots availability is the main issue."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Availability of convenient time slots is critical.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Yes, hygiene certification and clear quality assurances are essential."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> Yes, certifications and quality guarantees are important.
 
-**Q7:** Essential features for this kind of website/app?
-> "Impact tracking dashboard, clear communication, and easy checkout."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Impact tracking, easy checkout, and clear communication.
 
 ---
 
 ## Participant 4
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "A bit, but it's usually secondary to style and price."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> A little, but usually style and affordability come first.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "Yes, if it's as easy as scanning a QR code."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Yes, especially if very easy like scanning a QR code.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Instant small rewards like coffee vouchers would be appealing."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Instant small rewards like vouchers or coffee discounts.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Convenient drop-offs at locations I regularly visit."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Convenient drop-off points in familiar locations.
 
-**Q5:** Issues booking a clothes pickup?
-> "I worry about the process being complicated or confusing."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Concerns about complexity or unclear instructions.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Slightly hesitant, so user reviews and clear cleaning processes would help."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> Somewhat cautious; clear cleaning proof and reviews would help.
 
-**Q7:** Essential features for this kind of website/app?
-> "Easy usability, fast service, and clear tracking of actions."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Simplicity, clear instructions, fast service.
 
 ---
 
 ## Participant 5
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "Definitely, it helps me feel better about my shopping decisions."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> Definitely, it helps justify my choices.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "Sure, as long as there's minimal effort on my part."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Yes, minimal effort is key.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Yes, exclusive discounts or early access to sales."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Yes, exclusive discounts or early sales access.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Quick, hassle-free drop-off points with instant confirmation."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Quick drop-offs with instant confirmations.
 
-**Q5:** Issues booking a clothes pickup?
-> "Availability of suitable times and ease of rescheduling."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Timing flexibility and ease of rescheduling.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Yes, if backed by clear quality checks and verified customer feedback."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> Clear quality checks and customer feedback are essential.
 
-**Q7:** Essential features for this kind of website/app?
-> "Streamlined design, simple reward redemption, and personalized notifications."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Easy navigation, clear reward systems, personalized notifications.
 
 ---
 
 ## Participant 6
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "Yes, if the information is prominently displayed and clear."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> Yes, if clearly displayed and informative.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "Absolutely, especially with home pickup."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Absolutely, particularly home pickups.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Definitely. Points towards future discounts or coupons."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Yes, points redeemable for discounts.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Pickups at my door are definitely most appealing."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Convenient home pickups.
 
-**Q5:** Issues booking a clothes pickup?
-> "Concerns about punctuality and ease of changing appointments."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Punctuality and appointment flexibility.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Generally yes, but I'd like to see clear sanitation guarantees."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> Yes, provided clear sanitation assurances.
 
-**Q7:** Essential features for this kind of website/app?
-> "Real-time updates, ease of use, and straightforward reward tracking."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Easy updates, clear instructions, reward tracking.
 
 ---
 
 ## Participant 7
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "Somewhat, it makes a difference but isn't always decisive."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> Moderately—it helps, but isn't decisive.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "Yes, especially if integrated into places I regularly visit."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Yes, especially integrated with daily errands.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Cashback or immediate discounts would be attractive."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Cashback or immediate discounts are appealing.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Convenient drop-off locations in accessible places."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Accessible drop-off points.
 
-**Q5:** Issues booking a clothes pickup?
-> "Concerned about ease of booking and time flexibility."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Ease of booking and timing flexibility.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Possibly, clear evidence of professional cleaning is necessary."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> Potentially, clear cleaning processes necessary.
 
-**Q7:** Essential features for this kind of website/app?
-> "Intuitive design, quick booking features, and clear reward systems."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Fast booking, clear reward tracking, intuitive design.
 
 ---
 
 ## Participant 8
 
-**Q1:** Does seeing environmental info affect your clothing purchases?
-> "Not usually, I'm more driven by price and style."
+**Q:** Does environmental info (e.g., water saved, carbon reduced) displayed on clothes influence your buying decisions? How and why?
+> Not typically; price and style dominate.
 
-**Q2:** Would you recycle clothes if it were easy?
-> "If it's seamless and simple, yes."
+**Q:** Would you actively recycle your clothes if the process was made easy (e.g., home pickups or convenient drop-off)?
+> Yes, if seamless.
 
-**Q3:** Would rewards motivate you to recycle clothes more? Preferred rewards?
-> "Convenience-based rewards like free shipping or delivery discounts."
+**Q:** Would rewards (like points, discounts, or coupons) encourage you to recycle more often? Which rewards appeal most?
+> Convenience-oriented rewards like shipping discounts.
 
-**Q4:** What's most important: pickups, drop-offs, or instant feedback?
-> "Instant confirmation feedback upon recycling is reassuring."
+**Q:** For clothing recycling, which matters most to you: convenient home pickups, accessible drop-off points, or immediate environmental impact feedback?
+> Immediate recycling confirmations.
 
-**Q5:** Issues booking a clothes pickup?
-> "Uncertainty about reliability and timing flexibility."
+**Q:** What might discourage or prevent you from using a home clothing pickup service?
+> Reliability and scheduling flexibility concerns.
 
-**Q6:** Comfortable buying cleaned second-hand clothes online? How to increase trust?
-> "Maybe once convinced by solid user reviews and cleaning transparency."
+**Q:** Would you feel comfortable buying professionally cleaned second-hand clothes online? What would make you trust the cleanliness and quality more?
+> If strongly backed by user reviews and cleanliness proof.
 
-**Q7:** Essential features for this kind of website/app?
-> "Efficient navigation, clear user instructions, and reliable customer support."
+**Q:** What key features or functions do you think are essential for an effective clothing sustainability website or app?
+> Efficient use, clear instructions, reliable support.
+
+---
+
