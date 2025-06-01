@@ -1,69 +1,45 @@
 ## Participant 1
 
-> "Oh yeah, the site looks pretty nice — clean and not overwhelming. I got right away that it’s about eco-friendly fashion and recycling clothes, which is cool.
+> "Umm, I guess the site looks clean? But I wasn’t too sure what it wanted me to do at first. Like, there’s all these buttons and stats — I kinda skimmed through it.
 
-> The impact numbers on the homepage were a nice touch. Like, seeing how much water I saved makes the whole thing feel more real, not just another shopping site.
+> I did click on the map thing for drop-offs. It was okay, but I had no idea what half the icons meant. Maybe a quick guide or something would help?
 
-> Browsing through the sales page was easy, but I kinda wish there were more filters — maybe by newest or most popular. The pickup scheduling was smooth, though the time dropdown felt a bit packed. Icons or time-of-day labels might help there.
+> I didn’t finish the checkout ‘cause I didn’t want to type everything. Too many fields, honestly."
 
-> I really liked the drop-off map — it felt useful, like I’d actually check it next time I clean out my closet.
-
-> Checkout was fine overall, just a bit annoying to fill in contact info again. Would be great if it auto-filled after sign-in.
-
-> In general, it feels like the site’s going in the right direction. It's simple and makes the whole recycling thing feel easy and worth doing. Just polish a few small things and I’d totally use it."
 
 ---
 
 ## Participant 2
 
-> "I liked the layout — it wasn’t too busy and everything felt in the right place. The homepage made it clear it’s about sustainability, which is refreshing.
+> "Oh, I liked it! It’s cute. I liked the green and the icons. Felt friendly. I didn’t really read all the stuff about carbon or water though, haha — I just looked at the clothes.
 
-> I had no trouble browsing the products, and they loaded quickly. The rewards popup caught my eye, which I think is a smart way to keep people engaged.
+> I added something to the cart just to try it, and that worked fine. Didn’t go further. I’d maybe come back if I needed a cheap hoodie or something."
 
-> The pickup form was decent, but I wish the steps were more compact. Felt like a lot of scrolling. Still, not hard to use.
-
-> The recycling map is actually something I’d use if I knew the locations were kept up to date. That’s a cool feature.
-
-> If anything, maybe make the rewards and impact stuff more prominent across all pages, not just the homepage."
 
 ---
 
 ## Participant 3
 
-> "It’s a cool idea overall. The design feels friendly, not too ‘corporate,’ which I like.
+> "Okay so first, the rewards page was kinda fun. I like seeing stuff I can earn, even if I don’t totally get how to earn it yet. Could be clearer.
 
-> I did notice some parts felt like they could be faster — the cart page was a bit slower to respond. Not a big deal, but worth mentioning.
+> I scheduled a pickup — or I think I did? Didn’t get any message or confirmation, so I wasn’t sure. Might’ve done it wrong. Still, I liked the idea of just having someone come get my old clothes."
 
-> Love the environmental stats — the water and carbon stuff definitely makes the experience feel more meaningful.
-
-> Scheduling a pickup was fine, but I wasn’t sure if I’d get a confirmation or reminder. Maybe make that part clearer.
-
-> I’d use the site if I got more frequent updates or nudges about rewards. That kind of stuff keeps me coming back."
 
 ---
 
 ## Participant 4
 
-> "Visually, I really liked it — colors were calming, and it didn’t feel cluttered.
+> "It’s nice-looking, but I didn’t really get why I’d use it. Like, I already give my old clothes to charity bins. What’s the benefit here?
 
-> The home dashboard was my favorite part. I liked seeing the sustainability score and impact circles.
+> I saw the impact numbers — that part’s cool, I guess — but it feels a bit far from real life for me. Maybe if I got something instantly back, like a voucher, I’d care more."
 
-> Drop-off map was a bit hard to figure out at first. Once I clicked around, it made more sense. Maybe a short tip or intro would help new users.
-
-> The sales page was fine, though I was looking for a filter by brand or material and didn’t see one.
-
-> Overall, solid experience. With a bit more polish, it could be really great."
 
 ---
 
 ## Participant 5
 
-> "I didn’t know what to expect, but I actually really liked the whole concept.
+> "Honestly, I didn’t spend long on it. Just checked it out because you asked me to.
 
-> Super easy to navigate, even without instructions. I liked that.
+> The homepage made sense, and the pictures were nice. I liked the rewards with the little green badge, looked kinda satisfying.
 
-> Rewards page was fun to look at — kind of makes you want to recycle more.
-
-> One thing I’d say is maybe show how much more I need to recycle to get to the next reward. That’d be motivating.
-
-> Everything else worked pretty smoothly. I'd definitely recommend it to friends if they were into sustainable stuff."
+> I’d probably use it if it connected to, like, Myer or something. Like if I could get discounts at a store I already shop at. Right now it’s just... okay."
