@@ -43,3 +43,36 @@
 > The homepage made sense, and the pictures were nice. I liked the rewards with the little green badge, looked kinda satisfying.
 
 > I’d probably use it if it connected to, like, Myer or something. Like if I could get discounts at a store I already shop at. Right now it’s just... okay."
+
+---
+
+## Participant 6
+
+> "I thought it was a shopping site at first, then saw the recycling stuff. Not bad, just wasn’t what I expected.
+
+> I clicked the rewards tab, it looked kinda fun but I didn’t really understand what I had to do to get stuff. Could be clearer.
+
+> Didn’t try the pickup thing. I’d maybe use it if I had a big clean-out weekend."
+
+
+---
+
+## Participant 7
+
+> "Pretty easy to use, actually. The buttons worked, things loaded fast.
+
+> I liked that I didn’t need to log in to look around. That’s always a plus.
+
+> I think the homepage could show more clothes though. I almost missed the sales tab entirely."
+
+
+---
+
+## Participant 8
+
+> "It’s not bad. The design feels modern, but I didn’t really engage with the impact stuff.
+
+> I’d probably use the drop-off map more than anything else. That felt practical.
+
+> Overall, yeah, I could see myself using this once in a while if it stays simple and not too ‘app-like’."
+
