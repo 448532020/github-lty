@@ -176,23 +176,21 @@
 
 ## 9. Cost Structure
 
-- **Development & Hosting (Minimal/Low-Cost)**
-  - Use free or student-tier hosting options (e.g., GitHub Pages, Heroku free tier) for frontend; minimal or no server costs.
-  - Rely on free/open-source mapping solutions (e.g., OpenStreetMap) instead of paid API licenses.
+- **Technology Development & Maintenance**  
+  - Hosting (e.g., student/free-tier servers, minimal costs)  
+  - Platform security (SSL certificates, basic security tools)  
+  - Regular app/website updates and bug fixes
 
-- **Logistics & Operations (Student-Run)**
-  - Partner informally with local campus groups or community organizations to collect donated textiles (no courier fees).
-  - Leverage on-campus storage space (e.g., student union closet) and volunteer labor for sorting and quality checks.
+- **Operational Costs**  
+  - Pickup transportation (e.g., fuel or minimal reimbursement for student drivers)  
+  - Item warehousing (on-campus storage space or low-cost community storage)  
+  - Sorting and listing management (volunteer/student labor)
 
-- **Data Licensing (Free/Public Sources)**
-  - Use publicly available environmental datasets (e.g., government open data on water and carbon footprints).
-  - Maintain a simple, manually updated benchmark table instead of paying for premium data services.
+- **Educational Content Production**  
+  - Designing infographics (student-created or volunteer-designed)  
+  - Organizing workshops (venue materials, printing handouts)  
+  - Developing sustainability guides (research and writing time)
 
-- **Marketing & Acquisition (Grassroots/Organic)**
-  - Promote via student-run social media accounts and campus bulletin boards (no ad spend).
-  - Collaborate with campus clubs or environmental student organizations for organic outreach.
-  - Use free email tools included with student accounts (e.g., Gmail) for basic newsletters and updates.
-
-- **Support & Staffing (Volunteer/Student Interns)**
-  - Rely on project team members or student interns for customer support and operations coordination (no salaried staff).
-  - Ask volunteers (e.g., fellow students) to create marketing materials, take item photos, and write copy.
+- **Packaging & Logistics for Clothing Transport**  
+  - Eco-friendly packaging materials (e.g., reusable bins, recycled boxes)  
+  - Delivery services for reselling items (partnering with low-cost or campus mail services)
