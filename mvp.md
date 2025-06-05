@@ -1,3 +1,4 @@
+
 # Minimum Viable Product (Initial Version)
 
 ## In Scope
@@ -18,11 +19,10 @@
   - **Sales Page**  
     - Filter controls: gender, size, color, style, price range  
     - Search bar with autocomplete  
-    - Product cards: image carousel, brief description, rental vs. purchase toggle, price  
+    - Product cards: image carousel, brief description, price  
   - **Product Detail View**  
     - High-resolution image gallery  
     - Full description, material details, environmental footprint badge  
-    - Availability calendar for rentals  
     - “Add to Cart” button  
   - **Cart & Checkout**  
     - Cart summary: editable quantities, remove items  
@@ -56,11 +56,6 @@
     - View/edit: name, email, phone, postal address  
     - Change password workflow  
     - Upload/change avatar  
-  - **My Rentals**  
-    - List of active and past rentals with:  
-      - Item image & title  
-      - Rental period and return due date  
-      - “Initiate Return” button for active rentals  
   - **My Recycling**  
     - Recycle history log:  
       - Item photos  
