@@ -1,35 +1,37 @@
+
 # Business Model Canvas
 
 ## 1. Customer Segments  
-- **Trend-focused Consumers** who want affordable access to the latest styles via rentals  
 - **Environmentally-conscious Shoppers** seeking data-driven ways to reduce their fashion footprint  
 - **Busy Individuals** needing a simple way to donate or recycle clothes without extra effort  
-- **Budget-conscious Shoppers** looking for quality second-hand apparel at low cost  
+- **Budget-conscious Shoppers** looking for quality second-hand apparel at a low cost  
+- **Value-driven Purchasers** interested in sustainable products and rewards for their actions  
 
 ## 2. Value Propositions  
-- **All-in-one Sustainability Hub:** combines impact dashboard, rentals, sales, recycling map and pickup scheduler  
-- **Affordable Trend Rentals:** flexible, user-set pricing on high-fashion items for short-term use  
-- **Transparent Impact Metrics:** real-time display of water saved, carbon reduced and items recycled to guide choices  
-- **Convenient Recycling & Pickup:** interactive map of drop-off points plus calendar-driven at-home pickup booking  
-- **Reward-Driven Engagement:** points, coupons and gamification to encourage repeat use  
+- **All-in-one Sustainability Hub:** combines impact dashboard, sales catalog, recycling map, and pickup scheduler  
+- **Wide Selection of Sustainable Items for Purchase:** curated second-hand apparel with clear environmental impact information  
+- **Transparent Impact Metrics:** real-time display of water saved, carbon reduced, and items recycled to guide choices  
+- **Convenient Recycling & Pickup:** interactive map of drop-off points plus calendar-driven at-home collection  
+- **Reward-Driven Engagement:** points, coupons, and gamification to encourage purchases and recycling  
+- **Seamless Shopping Experience:** streamlined checkout, guest-checkout, and personalized recommendations  
 
 ## 3. Channels  
 - **Web & Mobile App** as the primary user interface  
-- **Social Media & Influencer Partnerships** targeting trend-focused and eco-conscious communities  
-- **Email Campaigns & Push Notifications** for reminders (pickups, returns, new coupons, featured sales)  
-- **In-app Banners & Prompts** to surface quick-actions (e.g. “Book Pickup,” “Shop Rentals”)  
+- **Social Media & Influencer Partnerships** targeting eco-conscious and budget-conscious communities  
+- **Email Campaigns & Push Notifications** for reminders (pickups, coupon expirations, featured sales)  
+- **In-app Banners & Prompts** to surface quick-actions (e.g. “Shop Sales,” “Schedule Pickup,” “Find Drop-off”)  
 
 ## 4. Customer Relationships  
-- **Self-service Portal:** intuitive flows for browsing, renting, purchasing, recycling and scheduling pickups  
-- **Automated Reminders:** email/SMS/app notifications for pickups, returns and coupon expirations  
+- **Self-service Portal:** intuitive flows for browsing, purchasing, recycling, and scheduling pickups  
+- **Automated Reminders:** email/SMS/app notifications for pickups, coupon expirations, and order updates  
 - **In-app Micro-Surveys:** gather feedback on key experiences (checkout, map usability, dashboard)  
 - **Light-touch Support:** searchable FAQ and contact form within the Profile & Help section  
 
 ## 5. Revenue Streams  
-- **Rental Fees:** charged per item, per duration (with user-set pricing ranges)  
 - **Sales Commissions:** percentage on second-hand purchases through the catalog  
 - **Premium Subscriptions (future):** advanced analytics, priority pickups, expanded rewards  
 - **Affiliate Fees:** referral or partnership fees from recycling centers and logistics providers  
+- **Promotional Partnerships:** sponsored placements or collaborations with sustainable brands  
 
 ## 6. Key Resources  
 - **Technology Stack:** front-end framework, back-end services, mapping API, notification engine  
@@ -38,8 +40,8 @@
 - **Analytics & Experimentation Tools:** event tracking, A/B testing, heatmaps  
 
 ## 7. Key Activities  
-- **Platform Development & Maintenance:** building and iterating dashboard, catalog, map and scheduler  
-- **Order & Request Fulfillment:** managing rentals, pickups, drop-offs and reward issuance  
+- **Platform Development & Maintenance:** building and iterating dashboard, catalog, map, and scheduler  
+- **Order & Request Fulfillment:** managing product listings, purchases, pickups, drop-offs, and reward issuance  
 - **Data Analysis & Optimization:** running experiments and refining user flows  
 - **Content & Inventory Management:** curating product listings and sustainability messaging  
 
