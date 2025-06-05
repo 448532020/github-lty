@@ -175,23 +175,24 @@
   - Affiliate program with bloggers earning a commission for each new user or sale generated.
 
 ## 9. Cost Structure
-- **Development & Hosting**
-  - Cloud hosting (AWS, GCP, or Azure) costs for servers, databases, storage, and CDN.
-  - Licensing fees for mapping API (Google Maps tier or Mapbox usage).
 
-- **Logistics & Operations**
-  - Courier fees: per pickup or per stop basis, negotiated rates for volume.
-  - Warehousing & sorting costs: storage of recycled textiles, quality inspection labor.
+- **Development & Hosting (Minimal/Low-Cost)**
+  - Use free or student-tier hosting options (e.g., GitHub Pages, Heroku free tier) for frontend; minimal or no server costs.
+  - Rely on free/open-source mapping solutions (e.g., OpenStreetMap) instead of paid API licenses.
 
-- **Data Licensing**
-  - Subscriptions to environmental data feeds (water/carbon footprints).
-  - Fees to maintain benchmark databases (regional averages).
+- **Logistics & Operations (Student-Run)**
+  - Partner informally with local campus groups or community organizations to collect donated textiles (no courier fees).
+  - Leverage on-campus storage space (e.g., student union closet) and volunteer labor for sorting and quality checks.
 
-- **Marketing & Acquisition**
-  - Ad spend on social media platforms (Facebook, Instagram, TikTok).
-  - Influencer partnership fees (flat or performance-based).
-  - Email marketing platform fees (SendGrid, Mailchimp).
+- **Data Licensing (Free/Public Sources)**
+  - Use publicly available environmental datasets (e.g., government open data on water and carbon footprints).
+  - Maintain a simple, manually updated benchmark table instead of paying for premium data services.
 
-- **Support & Staffing**
-  - Salaries for customer support specialists, logistics coordinators, and operations staff.
-  - Outsourced content creation (copywriters, photographers for item listings).
+- **Marketing & Acquisition (Grassroots/Organic)**
+  - Promote via student-run social media accounts and campus bulletin boards (no ad spend).
+  - Collaborate with campus clubs or environmental student organizations for organic outreach.
+  - Use free email tools included with student accounts (e.g., Gmail) for basic newsletters and updates.
+
+- **Support & Staffing (Volunteer/Student Interns)**
+  - Rely on project team members or student interns for customer support and operations coordination (no salaried staff).
+  - Ask volunteers (e.g., fellow students) to create marketing materials, take item photos, and write copy.
