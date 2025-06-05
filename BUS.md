@@ -112,46 +112,43 @@
    - Sponsored placements for sustainable fashion brands (e.g., “Featured Brand of the Week” section).
    - Co-branded campaigns (e.g., “Recycle 10 items, get 20% off from Brand X”).
 
-## 6. Key Resources
-- **Technology Stack**
-  - Front-end: React (web), React Native (mobile) or responsive framework (e.g., Next.js).
-  - Back-end: Node.js/Express or Django REST API, with PostgreSQL database.
-  - Mapping API: Google Maps or Mapbox for interactive recycling map.
-  - Notification Engine: Firebase Cloud Messaging (FCM) for push notifications, SendGrid for email.
+## 6. Key Activities
 
-- **Environmental Data Feeds**
-  - Licensed data on water and carbon footprint per garment type (sourced from industry reports, NGOs like WRAP).
-  - Real-time updates for benchmarks (average savings per region).
+- **Platform Maintenance and Development**  
+  - Continuous updates to the online resale platform (bug fixes, feature enhancements, security patches).  
 
-- **Operations Team**
-  - Logistics coordinators to manage pickup schedules, driver assignments, and partner relationships.
-  - Quality control team to inspect second-hand items, verify condition, and manage inventory listings.
-  - Customer support agents to handle inquiries, disputes, and technical issues.
+- **Pickup and Donation Coordination**  
+  - Logistics management for monthly clothing/textile collection services (scheduling, routing, volunteer coordination).  
 
-- **Analytics & Experimentation Tools**
-  - Event tracking via Google Analytics / Mixpanel to capture user flows (e.g., “Add to Cart → Begin Checkout → Purchase”).
-  - A/B testing platform (e.g., Optimizely) for UI/UX experiments like button color, CTA wording, or discount thresholds.
-  - Heatmaps (Hotjar) to identify areas where users struggle on key pages (checkout, map, scheduler).
+- **Educational and Marketing Campaigns**  
+  - Creating targeted content (infographics, social‐media posts, campus flyers) to raise awareness and promote sustainable behavior.  
+  - Organizing workshops and pop-up events on campus or in the community.  
 
-## 7. Key Activities
-1. **Platform Development & Maintenance**
-   - Ongoing sprints to develop new features: rewards redemption, enhanced filtering, internationalization.
-   - Security updates and codebase refactoring to ensure scalability and compliance with data protection regulations (GDPR, CCPA).
+- **Impact Tracking Tools**  
+  - Building and updating environmental dashboards (water/carbon saved, items recycled) and conducting periodic surveys to measure changes in user behavior.  
 
-2. **Order & Request Fulfillment**
-   - Coordinate with logistics partners to schedule and complete clothing pickups.
-   - Process recycled items: sort, grade, and route to appropriate facilities (resell, refurbish, recycle).
-   - Manage seller payouts and handle returns/exchanges.
+## 7. Key Resources
 
-3. **Data Analysis & Optimization**
-   - Weekly reviews of key metrics: conversion rate (Add to Cart → Purchase), pickup adoption rate, detail-view rate on map.
-   - Quarterly user surveys to gather qualitative feedback on pain points (e.g., “Was checkout too long?”).
-   - Monthly sprint retrospectives to prioritize bug fixes and feature requests.
+- **Technology Infrastructure**  
+  - Web hosting (student/free-tier servers or low-cost cloud) and SSL/TLS certificates for basic security.  
+  - Version control and code repositories (GitHub or similar) for platform source code.  
+  - Open-source mapping libraries (e.g., OpenStreetMap) and basic analytics tools.  
 
-4. **Content & Inventory Management**
-   - Curate second-hand item listings: ensure high-quality photos, accurate descriptions, and fair pricing.
-   - Update environmental impact data as new reports become available.
-   - Craft marketing copy for email campaigns, in-app banners, and social media posts.
+- **Operational Assets**  
+  - On-campus or community storage space for collected clothing/textiles.  
+  - Transportation resources (volunteer-driven vehicles or partner discounts) for pickups and drop-offs.  
+  - Sorting stations (tables, bins) and basic tools for quality inspection.  
+
+- **Human Resources**  
+  - Student volunteers and interns responsible for item sorting, listing, and customer support.  
+  - Volunteer designers/content creators for infographics, workshop materials, and social-media graphics.  
+  - Faculty advisors or mentors providing domain expertise and oversight.  
+
+- **Data and Content**  
+  - Publicly available environmental datasets (e.g., government open data on water/carbon footprints) to power impact metrics.  
+  - In-house educational materials: sustainability guides, workshop slide decks, printed handouts.  
+  - Survey platforms (free or student accounts) to collect user feedback and behavior data.  
+
 
 ## 8. Key Partners
 - **Logistics Providers**
