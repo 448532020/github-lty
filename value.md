@@ -1,12 +1,13 @@
+
 # Value Proposition Canvas
 
 ## 1. Customer Profile
 
 ### Customer Jobs  
-- **Discover & Act on Impact:** Check personal sustainability metrics and take actions (pickup, drop-off, shop)  
-- **Acquire Trendy Apparel:** Rent or buy fashionable items affordably  
-- **Dispose Unwanted Clothing:** Donate or recycle easily, on their own schedule  
-- **Manage Account & Rewards:** View order history, rental periods, recycling log, and redeem coupons  
+- **Discover & Act on Impact:** Check personal sustainability metrics and take actions (purchase, pickup, drop-off)  
+- **Acquire Sustainable Apparel:** Buy affordable, second-hand items with clear environmental impact details  
+- **Dispose Unwanted Clothing:** Donate or recycle easily on their own schedule  
+- **Manage Account & Rewards:** View order history, recycling log, and redeem coupons  
 
 ### Pains  
 - **Complex Recycling Options:** Hard to find nearby drop-off points or schedule pickups  
@@ -17,7 +18,7 @@
 
 ### Gains  
 - **Clarity & Motivation:** Instant feedback on sustainability metrics and composite score  
-- **Convenience:** One-stop interface for shopping, renting, recycling and pickups  
+- **Convenience:** One-stop interface for shopping, recycling, and pickups  
 - **Flexibility:** Choice between map-based drop-off and scheduled home pickup  
 - **Speed & Simplicity:** Quick-action buttons and streamlined checkout  
 - **Recognition & Savings:** Visible points balance, redeemable coupons, gamified badges  
@@ -29,14 +30,14 @@
 - **Sales Catalog & Cart:** Filterable product grid, “add to cart,” guest-checkout, progress bar  
 - **Recycling Drop-off Map:** Autocomplete search, radius filter, location details  
 - **Pickup Scheduler:** Calendar widget for date/time slots, confirmation & reminders  
-- **Profile & Account Hub:** Edit profile, view rentals, recycling log, rewards dashboard, help & support  
+- **Profile & Account Hub:** Edit profile, view recycling log, rewards dashboard, help & support  
 
 ### Pain Relievers  
 - **Map + Scheduler Integration:** Remove hassle of finding drop-off points or calling for pickups  
 - **Instant Impact Feedback:** Composite sustainability score motivates continued use  
 - **Streamlined Flows:** Two-step checkout, guest-checkout, progress indicators reduce friction  
 - **Unified Profile Center:** Single hub for all personal details, history, and support  
-- **Automated Reminders & Alerts:** Email/SMS/app notifications for pickups, returns, coupon expirations  
+- **Automated Reminders & Alerts:** Email/SMS/app notifications for pickups, coupon expirations, and order updates  
 
 ### Gain Creators  
 - **Quick-Action Prompts:** Direct CTAs on the dashboard encourage goal-oriented behavior  
