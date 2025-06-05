@@ -1,31 +1,94 @@
-| Feature                | Depop                                       | Sustainable Fashions                                                                                 |
-|------------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Purpose                | User-to-user secondhand fashion marketplace | All-in-one sustainable fashion platform: resale, donation, recycling, awareness, and e-commerce      |
-| User Experience        | Very DIY: photograph, list, price, ship     | Streamlined process: structured listings, pickup donations, impact awareness, and responsive service |
-| Resale                 | Basic resale only                           | Enhanced resale with condition ratings, pricing guidance (10–15% retail value), and user support     |
-| Donation System        | Not offered                                 | Scheduled clothing pickups with guaranteed reward (10¢ per 0.5 kg), reminders, and live tracking      |
-| Environmental Awareness| Minimal                                     | Environment page: CO₂, water, and microplastics per item; behavior change surveys                    |
-| Recycling Service      | Not offered                                 | Drop-off zones with location finder, accessibility filters, and manual response system               |
-| Presentation           | Simple item listings                        | Quality-focused: diverse model showcase, close-up imagery, and sustainability insights               |
-| Technology             | Resale app with social features             | Website with listing, tracking, dashboards, reminders, and manual operations support                 |
-| Revenue Streams        | Sales commissions                           | Resale platform fees                                                                                  |
+# Competitor Analysis
 
-Key Advantages
+---
 
-- **Seamless Donation System with Tangible Rewards**  
-  Unlike Depop, which does not facilitate donations, Sustainable Fashions provides a fully integrated pickup service for unwanted clothing. Users schedule a convenient at-home pickup, receive a guaranteed reward of 10¢ per 0.5 kg collected, and get automated reminders and live-tracking updates. This ensures that donating becomes as effortless as selling, encouraging repeat engagement and reducing barriers to entry.
+## Competitor Overview
 
-- **Comprehensive Sustainability Tools with Clear Impact Metrics**  
-  Depop focuses strictly on resale and lacks any environmental tracking features. In contrast, our platform includes a dedicated Environment page that displays CO₂ savings, water usage reductions, and microplastics estimates for each item. Users gain insight into their personal impact via real-time dashboards and can participate in behavior change surveys that tailor future recommendations. This transparency fosters a sense of accountability and motivates eco-conscious decisions.
+| **Feature**             | **Depop**                                                  | **Sustainable Fashions**                                                                                                 |
+|-------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Purpose**             | Peer-to-peer secondhand fashion marketplace                | All-in-one sustainable fashion platform: resale, donation, recycling, awareness, and e-commerce                           |
+| **User Experience**     |  
+- DIY listing process  
+- Users photograph, list, price, and ship items on their own |  
+- Guided listing flow with step-by-step prompts  
+- Integrated pickup, drop-off, and sale interfaces  
+- Responsive customer support                                                                                                            |
+| **Resale**              |  
+- Basic resale only  
+- No condition ratings or pricing guidance         |  
+- Condition ratings (“Like New,” “Moderate Wear”)  
+- Automated pricing suggestions (10–15% of retail value)  
+- Seller support for optimizing listings                                                                         |
+| **Donation System**     | Not offered                                                |  
+- Scheduled at-home clothing pickups  
+- Guaranteed reward (10¢ per 0.5 kg)  
+- Automated reminders and live-tracking updates                                                                    |
+| **Environmental Awareness** | Minimal (no formal impact metrics)                   |  
+- Dedicated Environment page  
+- Displays CO₂ savings, water-use reductions, microplastics estimates per item  
+- Behavior-change surveys to tailor future recommendations                                                        |
+| **Recycling Service**   | Not offered                                                |  
+- Drop-off zone locator with accessibility filters  
+- Manual support for special recycling requests                                                               |
+| **Presentation**        | Simple item listings                                       |  
+- Quality-focused gallery: diverse model showcase, close-up imagery  
+- Sustainability insights embedded in each listing                                                               |
+| **Technology**          | Mobile/web app with social features                        |  
+- Fully responsive website  
+- Integrated dashboards for impact tracking  
+- Real-time notifications and reminders                                                                            |
+| **Revenue Streams**     | 10% fee on each sale; no listing fees                       |  
+- Resale platform fees (commission-based)  
+- Optional premium features (e.g., highlighted listings)                                                             |
 
-- **Unified Experience: Resale, Donation, and Recycling in One App**  
-  While Depop requires users to rely solely on peer-to-peer transactions and external recycling options, Sustainable Fashions merges multiple sustainability actions into one seamless flow. A single user profile tracks resale listings, donation pickups, and recycling drop-offs, eliminating the need to juggle several platforms. This cohesive approach simplifies the customer journey and increases the likelihood that users will both purchase and recycle through the same interface.
+---
 
-- **Enhanced Resale with Expert Guidance and Quality Assurance**  
-  Depop’s user-driven listings can result in inconsistent product descriptions and unpredictable pricing. Our MVP offers condition ratings (e.g., “Like New,” “Moderate Wear”), recommended pricing guidelines (10%–15% of original retail), and dedicated support to help sellers optimize their listings. By standardizing quality checks and giving sellers clear benchmarks, we build trust in the marketplace and improve the overall buyer experience.
+## Key Advantages of Sustainable Fashions
 
-- **Automated Reward Application and Gamification**  
-  Depop relies on social validation—likes and follows—rather than tangible incentives. In contrast, Sustainable Fashions awards points for each recycling or resale action, automatically applies earned coupons at checkout (e.g., “SAVE10” applied at final step), and unlocks milestone badges like “Recycling Champion” or “Top Seller.” This gamified system drives repeat visits and keeps users engaged by turning sustainable behavior into a rewarding, game-like experience.
+1. **Seamless Donation System with Tangible Rewards**  
+   - Depop does not facilitate donations; our platform offers:
+     - Scheduled at-home pickups for unwanted clothing and textiles  
+     - Guaranteed reward: 10¢ per 0.5 kg collected  
+     - Automated reminders and live-tracking updates to keep users informed  
+   - Result: Donating is as effortless as selling, encouraging repeat engagement and reducing barriers to entry.
 
-- **Embedded Educational Content and In-App Guidance**  
-  Depop does not offer any structured educational content or contextual tooltips. Our platform integrates concise guides—such as “Why Choose Drop-Off vs. Pickup?” and “Understanding Your Sustainability Score”—directly within the user flow. Micro-surveys prompt feedback after key actions, helping users learn and feel supported without leaving the app. This combination of education and guidance nurtures long-term user loyalty and positions us as a trusted resource for sustainable fashion practices.
+2. **Comprehensive Sustainability Tools with Clear Impact Metrics**  
+   - Depop lacks environmental tracking. In contrast, Sustainable Fashions provides:
+     - A dedicated **Environment page** featuring:  
+       - **CO₂ savings** per item  
+       - **Water usage reductions** per item  
+       - **Microplastics estimates** per item  
+     - Real-time dashboards showing cumulative user impact (weekly/monthly view)  
+     - Behavior-change surveys that adapt recommendations based on user responses  
+   - Result: Transparency fosters accountability and motivates continued eco-conscious actions.
+
+3. **Unified Experience: Resale, Donation, and Recycling in One App**  
+   - Depop focuses solely on peer-to-peer transactions; Sustainable Fashions merges:  
+     - **Interactive drop-off map** for textiles and electronics  
+     - **Pickup scheduler** for at-home waste collection  
+     - **Curated resale marketplace** with integrated checkout and rewards  
+     - Single user profile tracking all activities (resale listings, donation history, recycling drop-offs)  
+   - Result: A cohesive, one-stop platform that eliminates the need for multiple apps, simplifying the sustainability journey.
+
+4. **Enhanced Resale with Expert Guidance and Quality Assurance**  
+   - Depop’s user-driven listings can be inconsistent. Our MVP includes:  
+     - **Condition ratings** (e.g., “Like New,” “Moderate Wear”) to set clear expectations  
+     - **Pricing guidance** based on market data and item condition (recommend 10–15% of original retail)  
+     - Dedicated **seller support** for writing effective descriptions and optimizing photos  
+   - Result: Higher trust among buyers, reduced returns, and more consistent seller experiences.
+
+5. **Automated Reward Application and Gamification**  
+   - Depop relies on social validation (likes, follows) rather than tangible incentives. We offer:  
+     - **Points system**: Earn points for each recycling or resale action  
+     - **Automated coupon application**: Coupons (e.g., “SAVE10”) apply automatically at checkout, with a visible confirmation banner  
+     - **Milestone badges**: “Recycling Champion,” “Top Seller,” and more to unlock as users hit targets  
+   - Result: Gamified engagement drives repeat visits and makes sustainable behavior feel rewarding and fun.
+
+6. **Embedded Educational Content and In-App Guidance**  
+   - Depop does not provide structured sustainability education. Our platform integrates:  
+     - **Contextual tooltips** (e.g., “Why choose drop-off vs. pickup?”) directly in key flows  
+     - **Concise guides** on interpreting impact metrics (e.g., “Understanding Your Sustainability Score”)  
+     - **Micro-surveys** after major actions to gather feedback and tailor future prompts  
+   - Result: Users learn best practices without leaving the app, building long-term loyalty and positioning us as a trusted resource for sustainable fashion.
+
+---
