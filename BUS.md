@@ -15,21 +15,21 @@
   - Likely to engage in repeat buying if there are clear incentives, badges, or recognition.
 
 ## 2. Value Propositions
-1. **All-in-one Sustainability Hub**
+- **All-in-one Sustainability Hub**
    - Combines personalized impact dashboard, sales catalog of curated second-hand items, interactive recycling map, and pickup scheduling into a single platform.
    - Users can see at a glance how their actions (purchases + recycling) contribute to water and carbon savings.
 
-2. **Wide Selection of Sustainable Items for Purchase**
+- **Wide Selection of Sustainable Items for Purchase**
    - Curated collection of second-hand apparel—each product listing clearly shows estimated water saved and carbon reduced by purchasing that item.
    - Quality checks ensure items meet minimum condition standards (“Like New,” “Good,” “Fair”) with high-resolution photos and honest descriptions.
    - Seasonal sales and flash deals on items that have been in inventory more than 14 days.
 
-3. **Transparent Impact Metrics**
+- **Transparent Impact Metrics**
    - Real-time tracking of water saved, carbon emissions reduced, and total items recycled.
    - Composite Sustainability Score to give users a single metric (0–100) summarizing their overall impact.
    - Benchmarking: shows how a user’s metrics compare to local and national averages.
 
-4. **Convenient Recycling & Pickup**
+- **Convenient Recycling & Pickup**
    - **Interactive Map:**
      - Lets users search by address or landmark; radius filter for 5/10/20/50 km; clusters pins when locations are dense.
      - “Mark as Visited” toggle updates user’s recycle history automatically.
@@ -38,7 +38,7 @@
      - Two input methods for items: text list or photo upload; special instructions field for driver notes.
      - Automated reminders via email/app 24 hours before, plus follow-up if not confirmed.
 
-5. **Reward-Driven Engagement**
+- **Reward-Driven Engagement**
    - Point system where:
      - Recycle an item → 10 points
      - Complete a purchase → 1 point per $1 spent
@@ -48,7 +48,7 @@
    - Redeem points for coupons (e.g., 100 points = $10 off next purchase) or donate points to partnered charities.
    - In-app progress bars and milestone notifications to encourage continued engagement.
 
-6. **Seamless Shopping Experience**
+- **Seamless Shopping Experience**
    - Two-step checkout: gather shipping details first, then payment, followed by order review.
    - Guest-checkout option for first-time or occasional buyers.
    - Autocomplete addresses to reduce form friction; saved addresses for returning users.
@@ -94,21 +94,21 @@
   - Live-chat placeholder with “We’re launching live chat soon” message, plus link to support email.
 
 ## 5. Revenue Streams
-1. **Sales Commissions**
+- **Sales Commissions**
    - Commission (e.g., 10–20%) on the final sale price of second-hand items sold through the platform.
    - Tiered commission: standard sellers (10%), premium sellers (15–20%) based on volume or quality reviews.
 
-2. **Premium Subscriptions (Future)**
+- **Premium Subscriptions (Future)**
    - Subscription tier ($9.99/month) offering:
      - Early access to new inventory drops.
      - Free expedited shipping on purchases.
      - Priority pickup scheduling (guaranteed next-day slots).
      - Exclusive coupons and double points on recycling events.
 
-3. **Affiliate Fees**
+- **Affiliate Fees**
    - Partnerships with local recycling centers and logistics providers—platform receives a referral fee for each scheduled pickup routed through partner networks.
 
-4. **Promotional Partnerships**
+- **Promotional Partnerships**
    - Sponsored placements for sustainable fashion brands (e.g., “Featured Brand of the Week” section).
    - Co-branded campaigns (e.g., “Recycle 10 items, get 20% off from Brand X”).
 
