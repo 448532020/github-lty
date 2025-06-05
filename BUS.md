@@ -52,9 +52,13 @@
 - **Data Providers:** supplying environmental impact calculations  
 - **Marketing Affiliates & Influencers:** to reach key customer segments  
 
-## 9. Cost Structure  
-- **Development & Hosting:** servers, databases, APIs, mapping services  
-- **Logistics & Operations:** courier fees, warehouse/handling costs  
-- **Data Licensing:** environmental metrics subscriptions  
-- **Marketing & Acquisition:** advertising, partnerships, influencer campaigns  
-- **Support & Staffing:** customer service, operations, product management  
+## 9. Cost Structure
+- **Technology Development & Maintenance**  
+  Hosting, platform security, app/website updates.
+- **Operational Costs**  
+  Pickup transportation, item warehousing, sorting, and listing management.
+- **Educational Content Production**  
+  Infographics, workshops, and sustainability guides.
+- **Packaging & Logistics for Clothing Transport**  
+  Eco-packaging and delivery services for resale items.
+ 
