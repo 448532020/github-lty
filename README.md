@@ -2,22 +2,22 @@
 
 **Student**: Tingyang Liu - s4827401
 
-## What it does
+## Overview
 
-A tool that converts OpenEdx courses to LiaScript format. It's pretty straightforward - you give it some course files and it spits out Markdown that works with LiaScript.
+A command-line tool that converts OpenEdx OLX course packages into LiaScript (`course.md` + `media/`) using a functional JavaScript pipeline.
 
-## What it handles
+## Features
 
-- Converts OpenEdx courses to LiaScript
-- Works with single files or whole folders
-- Handles HTML, videos, and different question types
-- Copies images and fixes paths
-- Has some tests to make sure it works
-- Written in a functional style
+- Converts OpenEdx courses to LiaScript format
+- Processes single files or entire directories
+- Handles HTML content, video files, and various question types
+- Copies media files and corrects file paths
+- Includes comprehensive testing suite
+- Implements functional programming principles
 
 **Note**: This converter supports both .tar.gz and .zip course export files. For .zip files, the content is automatically extracted and processed.
 
-## How it converts stuff
+## Conversion Mapping
 
 | Input | Output |
 |-------|--------|
@@ -27,7 +27,7 @@ A tool that converts OpenEdx courses to LiaScript format. It's pretty straightfo
 | HTML | Regular markdown |
 | Videos | YouTube embeds |
 | Questions | Interactive format |
-| Hidden stuff | Gets filtered out |
+| Hidden content | Filtered out |
 
 ## Installation
 
@@ -52,7 +52,7 @@ node courseconverter.js inputcourses/ outputcourses
 
 ## Output Structure
 
-Converted courses go to the output folder, each course in its own subfolder:
+Converted courses are placed in the output folder, with each course in its own subfolder:
 
 ```
 outputcourses/
@@ -67,40 +67,39 @@ outputcourses/
         └── ...
 ```
 
-## Run Tests
+## Testing
 
 ```bash
 npm test
 ```
 
-Tests cover the key pieces:
-- XML parsing
+The test suite covers:
+- XML parsing functionality
 - Course code extraction
 - HTML to Markdown conversion
 - Image path processing
 - Video conversion
 - Problem conversion (all types)
 - LiaScript Markdown generation
-- Error handling
-- Edge cases
+- Error handling mechanisms
+- Edge case scenarios
 
-## How it works
+## Architecture
 
-The code is split into small functions that each do one thing:
+The tool is structured with small, focused functions:
 - Parse the XML files
-- Build an index of all the content
-- Convert each piece to markdown
-- Put it all together
-4. Convert HTML/Video/Problem to Markdown
-5. Write one course.md per course
+- Build an index of all content
+- Convert each component to markdown
+- Assemble the final output
+- Generate one course.md per course
 
 **File Support**: Automatically handles both .tar.gz and .zip course packages.
 
-### Error handling
+### Error Handling
 
-- XML parse errors are caught
-- File/untar errors are reported
-- Missing pieces fall back safely
+- XML parsing errors are caught and handled
+- File extraction errors are reported
+- Missing components fall back gracefully
 
 ## Dependencies
 
@@ -130,23 +129,14 @@ The code is split into small functions that each do one thing:
         └── video/         # Video directory
 ```
 
-### Extend later
+### Future Extensions
 
 - Add new problem types in `convertProblem`
 - Add new unit types in `processVertical`
-- Keep converters as small functions so tests stay simple
+- Maintain small, focused functions for testability
 
-## AI Usage Declaration
+## External Resources
 
-### Generative AI usage (short)
+### Generative AI Usage
 
-- Used AI (Claude Sonnet in Cursor) for learning tips, structure ideas, and test ideas
-- Core logic written by the developer; AI did not inject hidden code
-- Final code follows the assignment’s functional goals
-
-### Other External Resource References
-
-- **LiaScript Documentation**: Referenced LiaScript Markdown syntax specifications
-- **OpenEdx Documentation**: Understood OLX format structure
-- **Jest Documentation**: Learned testing framework usage methods
-
+I used generative AI tools for minor assistance with planning and wording only (e.g., brainstorming test ideas, rephrasing comments). All program logic, algorithms, and code were written and verified by me. No AI-generated code was included without review, and I am fully responsible for the final implementation.
