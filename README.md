@@ -139,4 +139,4 @@ The tool is structured with small, focused functions:
 
 ### Generative AI Usage
 
-I used generative AI tools for minor assistance with planning and wording only (e.g., brainstorming test ideas, rephrasing comments). All program logic, algorithms, and code were written and verified by me. No AI-generated code was included without review, and I am fully responsible for the final implementation.
+I used generative AI tools for assistance with various aspects of development including planning, code structure suggestions, and debugging help. While AI provided guidance and suggestions, all final implementation decisions, logic, and code structure were made by me. I reviewed and understood all AI-suggested code before incorporating it.
